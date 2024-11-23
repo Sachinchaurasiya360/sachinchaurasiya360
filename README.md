@@ -5,10 +5,10 @@
 I'm a passionate Computer Science Engineering student specializing in AI and ML. I have a strong foundation in Python, Java, and JavaScript and love one TS.
 
 ## What I Do
-shit posting and building something in private repo
+Shit posting on Twitter and building something in a private repo
 
 ## Get in Touch
 - 📧 [Email Me](mrsachinchaurasiya@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sachinchaurasiya/)
-- 🌐 [Portfolio](https://sachinchaurasiya360.github.io/)
+- 🌐 [Twitter](https://twitter.com/The_sachin360)
 
